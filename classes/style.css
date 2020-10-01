@@ -1,0 +1,31 @@
+*{
+    font-size: 65.5%;
+  }
+  body{
+    background: url(https://candjsports.com/wp-content/uploads/2017/04/ocean-wallpaper-1.jpg)
+  }
+  .logo img{
+    width: 200px;
+    }
+  .navigation{
+    display: flex;
+    margin: 2rem 25rem;
+  }
+    .navigation a{
+    background-color: transparent;
+    width: 15rem;
+    height: 2rem;
+    padding: 20px 15px 25px;
+    font-size: 2rem;
+    text-decoration: none;
+    color: white;
+    border-radius: 25px;
+    text-align: center;
+    transition: .5s;
+  }
+  .navigation a:hover{
+    color: #0349fc;
+  }
+  .linkInfo{
+    font-size:1rem;
+  }
